@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shopify/static/css/main.38309a6e.chunk.css",
+    "main.js": "/Shopify/static/js/main.a6f74351.chunk.js",
+    "main.js.map": "/Shopify/static/js/main.a6f74351.chunk.js.map",
+    "runtime-main.js": "/Shopify/static/js/runtime-main.1f5db0d2.js",
+    "runtime-main.js.map": "/Shopify/static/js/runtime-main.1f5db0d2.js.map",
+    "static/css/2.ec75a592.chunk.css": "/Shopify/static/css/2.ec75a592.chunk.css",
+    "static/js/2.3baf3713.chunk.js": "/Shopify/static/js/2.3baf3713.chunk.js",
+    "static/js/2.3baf3713.chunk.js.map": "/Shopify/static/js/2.3baf3713.chunk.js.map",
+    "index.html": "/Shopify/index.html",
+    "precache-manifest.07be168947696323250ac1536bc64b09.js": "/Shopify/precache-manifest.07be168947696323250ac1536bc64b09.js",
+    "service-worker.js": "/Shopify/service-worker.js",
+    "static/css/2.ec75a592.chunk.css.map": "/Shopify/static/css/2.ec75a592.chunk.css.map",
+    "static/css/main.38309a6e.chunk.css.map": "/Shopify/static/css/main.38309a6e.chunk.css.map",
+    "static/js/2.3baf3713.chunk.js.LICENSE.txt": "/Shopify/static/js/2.3baf3713.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Shopify/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/App.css": "/Shopify/static/media/showcase.fcb61307.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5db0d2.js",
+    "static/css/2.ec75a592.chunk.css",
+    "static/js/2.3baf3713.chunk.js",
+    "static/css/main.38309a6e.chunk.css",
+    "static/js/main.a6f74351.chunk.js"
+  ]
+}
