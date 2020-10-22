@@ -304,12 +304,12 @@ button {
   justify-content: space-between;
   align-items: center;
   padding: 0.7rem 2rem;
-  position: fixed;
+  position: sticky;
   z-index: 1;
   width: 100%;
   top: 0;
   border-bottom: solid 1px var(--primary-color);
-  opacity: 0.9;
+  /* opacity: 0.9; */
 }
 
 .navbar ul {
@@ -575,3 +575,91 @@ button {
     padding: 0.3rem 0.4rem;
   }
 }
+
+/*CartDetails*/
+
+.cartItem{
+  display:flex;
+  flex-direction: row;
+  width: 90%;
+  border: solid 1px grey;
+  height: 50vh;
+  margin:auto;
+  margin-top: 5%;
+}
+
+.flex1{
+  flex:2;
+}
+
+.flex2{
+  flex:1;
+  margin-top: 8%;
+  margin-right: 15%;
+}
+
+.flex3{
+  flex:1;
+}
+
+.imgcart{
+  width: 60%;
+  height: 70%;
+  margin-left: 4%;
+  margin-top: 17%;
+}
+
+
+.namecart{
+  margin-top: 10%;
+  font-family: fantasy;
+  font-size: larger;
+}
+
+.delete{
+  color: gray;
+  margin-top: 5%;
+}
+
+.stock{
+  color: green;
+  margin-top: 5%;
+}
+
+.pricecart{
+  display: inline-block;
+  margin: 50% 0%;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.plus{
+
+
+}
+
+.minus{
+  
+
+}
+
+.num{
+  width: 13%;
+  margin: 7px;
+  text-align: center;
+
+}
+.customicon {
+  font-size: 1.2em !important;
+}
+
+.checkout{
+  margin-top: 5% !important;
+  margin-left: 50% !important;
+  background-color: forestgreen !important;
+}
+/* ConfirmOrder*/
+.Color-Button {
+  color: rgb(153, 0, 255);
+}
+

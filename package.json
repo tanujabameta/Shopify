@@ -8,21 +8,27 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.20.0",
     "moment": "^2.29.1",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
+    "react-confirm-alert": "^2.6.2",
     "react-dom": "^16.13.1",
+    "react-hook-form": "^6.9.4",
     "react-moment": "^1.0.0",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev-server": "json-server -p 8080 data.json",
+    "json-server": "json-server --watch data.json --port 3333"
   },
   "eslintConfig": {
     "extends": "react-app"

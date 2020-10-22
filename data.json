@@ -1,0 +1,230 @@
+{
+ "data":[
+   {
+    "id":1,
+    "Product_id":1,
+    "Product_name":"bulb",
+    "Product_description": "some description",
+    "Product_price":250,
+    "Product_image":"https://i.ibb.co/6gTVhmM/camera.jpg",
+    "Product_status":"In Stock",
+    "Product_quantity":10
+    },
+    
+    {
+    "id":2,
+    "Product_id":2,
+    "Product_name":"Fan",
+    "Product_description": "red color ",
+    "Product_price":3000,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":15
+    },
+    {
+    "id":3,
+    "Product_id":3,
+    "Product_name":"SweatShirt",
+    "Product_description": "black in color pure cotton  ",
+    "Product_price":4500,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":80
+    },
+    {
+       "Product_id":4,
+    "Product_name":"Adidas shoes",
+    "Product_description": "These are white adidas shoes",
+    "Product_price":7800,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":15
+    },
+    {
+         "Product_id":5,
+    "Product_name":"Jacket",
+    "Product_description": "its brown color leather jacket",
+    "Product_price":10000,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":20
+    
+    },
+    {
+        "Product_id":6,
+    "Product_name":"Vans shirt",
+    "Product_description": " white color shirt,pure cotton",
+    "Product_price":1200,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":68
+    },
+     {   "Product_id":7,
+    "Product_name":"Cropped-sho",
+    "Product_description": "black color shirt",
+    "Product_price":600,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":65
+     },
+     {
+        "Product_id":8,
+    "Product_name":"one plus",
+    "Product_description": "black color,128gb",
+    "Product_price":37000,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":15
+    
+     },
+    {
+    "Product_id":9,
+    "Product_name":"Iphone",
+    "Product_description": "white color,128gb",
+    "Product_price":77000,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":15
+    },
+    {
+      "Product_id":10,
+    "Product_name":"Alexa Echo",
+    "Product_description": "red color",
+    "Product_price":4500,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":10
+    },
+    {
+     "Product_id":11,
+    "Product_name":"nike socks",
+    "Product_description": "brown color,cotton",
+    "Product_price":450,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":10
+    },
+    {
+     "Product_id":12,
+    "Product_name":"Google pixel",
+    "Product_description": "black color,256 gb", 
+    "Product_price":45000,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":10
+    },
+    {
+    "Product_id":13,
+    "Product_name":"Band-Aid",
+    "Product_description": "An adhesive bandage brand owned by Johnson & Johnson", 
+    "Product_price":50,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":10
+    },
+    {
+    "Product_id":14,
+    "Product_name":"Tupperware",
+    "Product_description": "These hard-plastic containers are a trademark of Tupperware Brands Corp", 
+    "Product_price":450,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":90
+    },
+    {
+    "Product_id":15,
+    "Product_name":"Swiss Army Knife",
+    "Product_description": "Owned by Victorinox and Wenger) synonomous with a multi-purpose knife", 
+    "Product_price":900,
+    "Product_image":"Some location",
+    "Product_status":"In Stock",
+    "Product_quantity":85
+    }
+ ],
+
+ 
+"cart":[
+  {
+  "id":1,
+ "Product_id":1,
+ "Product_name":"bulb",
+ "Product_description": "some description",
+ "Product_price":30,
+ "Product_image":"https://i.ibb.co/tYdx6sL/federico-bottos-Tu-At-Ss8peo-M-unsplash.jpg",
+ "Product_status":"In Stock",
+ "Product_quantity":10,
+ "Quantity":7,
+ "Status":"In Stock",
+ "Shipping_charges":"Free delivery"
+ },
+ 
+ {
+ "id":2,
+ "Product_id":2,
+ "Product_name":"Fan",
+ "Product_description": "red color ",
+ "Product_price":3000,
+ "Product_image":"https://i.ibb.co/HKLXpm0/bersam-XNETub7tjk-E-unsplash.jpg",
+ "Product_status":"In Stock",
+ "Product_quantity":15,
+ "Quantity":12,
+ "Status":"In Stock",
+ "Shipping_charges":"Free delivery"
+ },
+ {
+ "id":3,
+   "Product_id":3,
+ "Product_name":"SweatShirt",
+ "Product_description": "black in color pure cotton  ",
+ "Product_price":4500,
+ "Product_image":"https://i.ibb.co/mtk0wjw/max-titov-tm-Kb-KZl7ch-Y-unsplash.jpg",
+ "Product_status":"In Stock",
+ "Product_quantity":80,
+ "Quantity":70,
+ "Status":"In Stock",
+ "Shipping_charges":"Free delivery"
+ },
+ {
+  "id":4,
+    "Product_id":4,
+ "Product_name":"Adidas shoes",
+ "Product_description": "These are white adidas shoes",
+ "Product_price":7800,
+ "Product_image":"https://i.ibb.co/CVs6wp5/sara-kurfess-Vfvnjb-KFu4-unsplash.jpg",
+ "Product_status":"In Stock",
+ "Product_quantity":15,
+ "Quantity":8,
+ "Status":"In Stock",
+ "Shipping_charges":"Free delivery"
+ },
+ {
+ "id":5,
+      "Product_id":5,
+ "Product_name":"Jacket",
+ "Product_description": "its black color leather jacket",
+ "Product_price":10000,
+ "Product_image":"https://i.ibb.co/FVvN90r/lea-ochel-ns-RBb-E6-YLs-unsplash.jpg",
+ "Product_status":"In Stock",
+ "Product_quantity":20,
+ "Quantity":17,
+ "Status":"In Stock",
+ "Shipping_charges":"Free delivery"
+ 
+ },
+ {
+ "id":6,
+     "Product_id":6,
+ "Product_name":"Shirt",
+ "Product_description": " white color shirt,pure cotton",
+ "Product_price":1200,
+ "Product_image":"https://i.ibb.co/D4r9VsZ/sharon-mccutcheon-Io-R6wl3-L06-A-unsplash.jpg",
+ "Product_status":"In Stock",
+ "Product_quantity":68,
+ "Quantity":54,
+ "Status":"In Stock",
+ "Shipping_charges":"Free delivery"
+ }]
+ }
+
+
+

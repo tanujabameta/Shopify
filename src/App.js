@@ -5,6 +5,9 @@ import Landing from './components/layout/Landing';
 import Navbar from './components/layout/Navbar';
 import Register from './components/auth/Register';
 import Login from './components/auth/Login';
+import CartDetails from './components/layout/CartDetails';
+import 'semantic-ui-css/semantic.min.css';
+import Shipping from './components/layout/Shipping';
 
 const App = () => (
   <Router>
@@ -16,6 +19,9 @@ const App = () => (
       <Switch>
         <Route exact path="/Register" component={Register}/>
         <Route exact path="/Login" component={Login}/>
+        <Route exact path="/cartDetails" component={CartDetails}/>
+        <Route exact path='/shipping' component={Shipping}/>
+        
 
       </Switch>
     </section>
