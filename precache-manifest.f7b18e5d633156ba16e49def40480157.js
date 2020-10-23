@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df98b58deb46e08992f57e0969ea9594",
+    "revision": "2563fea2b19e66bc063fbff5fc3969ab",
     "url": "/Shopify/index.html"
   },
   {
-    "revision": "1ede8e8331e595b70702",
-    "url": "/Shopify/static/css/2.ec75a592.chunk.css"
+    "revision": "a95bff11f3b3fb309a33",
+    "url": "/Shopify/static/css/2.58cdb245.chunk.css"
   },
   {
-    "revision": "f7e9c9462e90c7e3f146",
-    "url": "/Shopify/static/css/main.38309a6e.chunk.css"
+    "revision": "39397f2fa1d2bc7197a3",
+    "url": "/Shopify/static/css/main.9065ae86.chunk.css"
   },
   {
-    "revision": "1ede8e8331e595b70702",
-    "url": "/Shopify/static/js/2.3baf3713.chunk.js"
+    "revision": "a95bff11f3b3fb309a33",
+    "url": "/Shopify/static/js/2.e3fd388f.chunk.js"
   },
   {
     "revision": "aa4100970f46d7e0ec2af84de3f2740b",
-    "url": "/Shopify/static/js/2.3baf3713.chunk.js.LICENSE.txt"
+    "url": "/Shopify/static/js/2.e3fd388f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7e9c9462e90c7e3f146",
-    "url": "/Shopify/static/js/main.a6f74351.chunk.js"
+    "revision": "39397f2fa1d2bc7197a3",
+    "url": "/Shopify/static/js/main.2d4b5810.chunk.js"
   },
   {
     "revision": "a86856cfb061ce318e89",
