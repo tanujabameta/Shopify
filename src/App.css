@@ -663,3 +663,18 @@ button {
   color: rgb(153, 0, 255);
 }
 
+/*Product*/
+.box {
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  line-height: 25px;
+  float: left;
+  border-radius: 4px;
+  border: 1px solid rgb(70, 69, 69);
+  background-color: #addbe6;
+}
+
+.clearboth {
+  clear: both;
+}
